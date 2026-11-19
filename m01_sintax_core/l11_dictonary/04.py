@@ -19,7 +19,6 @@ dict2 = {
     "age": 36
 }
 
-
 def check_empty(dict):
     if len(dict) == 0:
         print("Словарь пустой")
